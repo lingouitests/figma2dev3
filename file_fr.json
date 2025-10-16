@@ -1,4 +1,11 @@
 {
+  "ProjectLogin": {
+    "nestedKey": {
+      "login": "Connectez-vous",
+      "logout": "Déconnectez-vous",
+      "name": "Nom"
+    }
+  },
   "start": "démarrer",
   "myPrefix_goon_mySuffix": "continuer",
   "myPrefix_next_mySuffix": "suivant",
@@ -11,6 +18,23 @@
   "myPrefix_addingne_mySuffix": "ajout d'une nouvelle chaîne",
   "myPrefix_blabla_mySuffix": "bla=bla",
   "myPrefix_qwe_mySuffix": "qwe",
+  "myPrefix_zxc_999": "zxc",
+  "myPrefix_zxc222_999": "zxc222",
+  "myPrefix_slide_999": "diapositive",
+  "myPrefix_try2_99987": "essayez 2",
+  "myPrefix_987_99987": "987",
+  "myPrefix_658_99987": "658",
   "myPrefix_trwtrewtre_99987": "trwtrewtre",
-  "myPrefix_1111111_99987": "1111111"
+  "myPrefix_1111111_99987": "1111111",
+  "counter_one_99987": "un",
+  "counter_two_99988": "deux",
+  "counter_three_99987": "trois",
+  "counter_five_99987": "cinq",
+  "counter_six_99988": "six",
+  "counter_seven_99989": "sept",
+  "counter_nine_99990": "neuf",
+  "counter_ten_99991": "dix",
+  "counter_eight_99992": "huit",
+  "counter_tttrrreee_99987": "tttrrree",
+  "counter_check_99987": "cheque"
 }
