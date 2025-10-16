@@ -1,0 +1,9 @@
+ {
+    "ProjectLogin": {
+       "nestedKey": {
+          "login": "Log In", 
+          "logout": "Log Out",
+          "name":  "Name"
+        }
+     }
+  }
