@@ -1,1 +1,12 @@
-
+msgid ""
+msgstr ""
+msgid "one"
+msgstr "one"
+msgid "two"
+msgstr "two"
+msgid "three"
+msgstr "three"
+msgid "four"
+msgstr "four"
+msgid "five"
+msgstr "five"
