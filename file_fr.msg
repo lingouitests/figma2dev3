@@ -1,0 +1,5 @@
+one "un"
+two "deux"
+three "trois"
+four "quatre"
+five "cinq"
